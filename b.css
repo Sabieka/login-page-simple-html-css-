@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    }
+    .count{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to left, #2c11a1, #820094, #b40080, #d60069, #ec0f53);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    }
+    .main{
+    height: 400px;
+    width: 55%;
+    background-image: linear-gradient(to right, #2c11a1, #820094, #b40080, #d60069, #ec0f53);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    }
+    .iner{
+    height:390px ;
+    width: 60%;
+    background-color: #09090a;
+justify-content: center;
+display: flex;
+align-items: center;
+flex-direction: column;
+
+    }
+    .and{
+  color: aliceblue;  
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 40px;
+
+    }
+.para{
+color: rgb(127, 130, 133);
+font-size: 10px;
+margin-top: 2px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box1{  
+height: 30px;
+width: 230px;
+border-radius: 20px;
+background-color: transparent;
+align-items: center;
+justify-content: center;
+display: flex;
+border:solid 2px #d60069;
+margin-top:5px;
+color: rgb(127, 130, 133);
+}
+.box2{
+    height: 30px;
+    width: 230px;
+    border-radius: 20px;
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border:solid 2px #d60069;
+    margin-top:5px;
+    color: rgb(127, 130, 133);
+}
+.but{
+height: 40px;
+width: 90px;
+border-radius: 20px;
+border:solid 2px #d60069;
+background-color: transparent;
+color: rgb(234, 237, 240);
+margin-top:13px;
+font-size: 15px;
+}
+.forget{
+    color: rgb(127, 130, 133);
+    margin-top:10px;
+margin-left: 110px;
+}
+.inst{
+height: 30px;
+width: 200px;
+border-radius: 20px;
+background-color:transparent;
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-direction: row;
+margin-top: 20px;
+
+}
+.pic1{
+height: 30px;
+}
